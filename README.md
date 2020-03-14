@@ -12,6 +12,8 @@ The protocol described here is based on reception booking the consult. Other app
 ### Protocol
 [Process map for booking a video consult](../master/protocol/protocol_v1_image.png)
 
+This was created using [diagrams.net](http://diagrams.net/). An editable version of the above image can be found in the [protocol folder](../master/protocol/).
+
 
 ### Video Guides
 There are two seperate videos, one for admin who will be booking the appointment, and one for clinicians who will be offering the appointments.
@@ -21,3 +23,7 @@ There are two seperate videos, one for admin who will be booking the appointment
 [Video guide for clinicians](https://www.loom.com/share/77c1cba11a2440e5888aa691c250b0c3)
 
 ### Information for practice websites
+When patients are sent their consultation details via SMS, they should be sent a link to your practice website that contains a very brief guide and video on how the process will work on their end. Additionally, there is a more detailed guide that patients may wish to read. Both are provided below.
+[Brief guide to video consults for patients](../master/briefpatientguide.md)
+[Video guide to video consults for patients](https://www.youtube.com/watch?v=Ok17HyQVqHg&feature=youtu.be)
+[Detailed patient information on video consults](../master/detailedpatientguide.md)
