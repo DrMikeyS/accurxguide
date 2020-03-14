@@ -24,6 +24,9 @@ There are two seperate videos, one for admin who will be booking the appointment
 
 ### Information for practice websites
 When patients are sent their consultation details via SMS, they should be sent a link to your practice website that contains a very brief guide and video on how the process will work on their end. Additionally, there is a more detailed guide that patients may wish to read. Both are provided below.
+
 [Brief guide to video consults for patients](../master/briefpatientguide.md)
+
 [Video guide to video consults for patients](https://www.youtube.com/watch?v=Ok17HyQVqHg&feature=youtu.be)
+
 [Detailed patient information on video consults](../master/detailedpatientguide.md)
