@@ -3,6 +3,9 @@ A guide to implementing AccuRx Video Consultations
 
 In response to COVID-19, AccuRx have released a free video consultation soultion for primary care compatible with EMIS and TPP SystmOne. This guide aims to provide some support to practices in implementing the system.
 
+## Sharing changes
+This is all provided free on the proviso that if you find bugs or have improvments you share them for the benefit of the NHS. For the geeks please contribute here on github, for the less geeky, if you have something to add please e-mail me at mike@mikedavidsmith.com.
+
 ## Installation
 The instrucitons for installing the software on practice computers is really clearly described on the [AccuRx website](https://www.accurx.com/).
 
