@@ -10,7 +10,7 @@ The instrucitons for installing the software on practice computers is really cle
 The protocol described here is based on reception booking the consult. Other approaches are possible, but we found this to be the most effective.
 
 ### Protocol
-[Process map for booking a video consult](../protocol/protocol_v1_image.png)
+[Process map for booking a video consult](../master/protocol/protocol_v1_image.png)
 
 
 ### Video Guides
