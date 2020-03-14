@@ -1,13 +1,13 @@
 # accurxguide
 A guide to implementing AccuRx Video Consultations
 
-In response to COVID-19, AccuRx have released a free video consultation soultion for primary care compatible with EMIS and TPP SystmOne. This guide aims to provide some support to practices in implementing the system.
+In response to COVID-19, AccuRx have released a free video consultation solution for primary care compatible with EMIS and TPP SystmOne. This guide aims to provide some support to practices in implementing the system.
 
 ## Sharing changes
-This is all provided free on the proviso that if you find bugs or have improvments you share them for the benefit of the NHS. For the geeks please contribute here on github, for the less geeky, if you have something to add please e-mail me at mike@mikedavidsmith.com.
+This is all provided free on the proviso that if you find bugs or have improvements you share them for the benefit of the NHS. For the geeks please contribute here on github, for the less geeky, if you have something to add please e-mail me at mike@mikedavidsmith.com.
 
 ## Installation
-The instrucitons for installing the software on practice computers is really clearly described on the [AccuRx website](https://www.accurx.com/).
+The instructions  for installing the software on practice computers is really clearly described on the [AccuRx website](https://www.accurx.com/).
 
 ## Using in practice
 The protocol described here is based on reception booking the consult. Other approaches are possible, but we found this to be the most effective.
@@ -19,7 +19,7 @@ This was created using [diagrams.net](http://diagrams.net/). An editable version
 
 
 ### Video Guides
-There are two seperate videos, one for admin who will be booking the appointment, and one for clinicians who will be offering the appointments.
+There are two separate  videos, one for admin who will be booking the appointment, and one for clinicians who will be offering the appointments.
 
 [Video guide for reception](https://www.loom.com/share/0c88bfaa53504c73ab28946166095dc9)
 
