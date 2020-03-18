@@ -10,12 +10,20 @@ This is all provided free on the proviso that if you find bugs or have improveme
 The instructions  for installing the software on practice computers is really clearly described on the [AccuRx website](https://www.accurx.com/).
 
 ## Using in practice
-The protocol described here is based on reception booking the consult. Other approaches are possible, but we found this to be the most effective.
+Two approaches to using video consults are described.
 
-### Protocol
-[Process map for booking a video consult](../master/protocol/protocol_v1_image.png)
+### Protocols
+#### Conversion from telephone triage
+[Process map for CLINICIAN converting a telephone consult to video](../master/protocol/protocol_v2_image.png)
 
-This was created using [diagrams.net](http://diagrams.net/). An editable version of the above image can be found in the [protocol folder](../master/protocol/).
+We have found this the most effective approach to incorperating video consultations. Most patients are happy with a telephone encounter, however sometimes (usually clinically led) video can be helpful to avoid the need for a face to face appointment (e.g. a rash).
+#### Reception arranged video consultation
+[Process map for RECEPTION booking a video consult](../master/protocol/protocol_v1_image.png)
+
+A small number of patients may prefer a full video consult. If your practice wishes to take this approach, this guide describes how to approach that.
+
+#### Editable protocols
+These were created using [diagrams.net](http://diagrams.net/). An editable version of the above image can be found in the [protocol folder](../master/protocol/).
 
 
 ### Video Guides
